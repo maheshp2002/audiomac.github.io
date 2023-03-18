@@ -1,0 +1,582 @@
+[
+  {
+    "url": "http://listen.openstream.co/4626/audio",
+    "name": "Radio Mirchi",
+    "frequency": "104",
+    "id": 1,
+    "image": "assets/station/mirchi.jpg",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KOC_MAL_ESTAAC.m3u8",
+    "name": "Mirchi music",
+    "frequency": "104",
+    "id": 2,
+    "image": "assets/station/mirchi.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://n08.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABgqAMMa0ADki0w5zuGutzVA",
+    "name": "Mirchi songs",
+    "frequency": "98.3",
+    "id": 3,
+    "image": "assets/station/mirchi.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/playlist.m3u8",
+    "name": "Radio mango",
+    "frequency": "91.9",
+    "id": 4,
+    "image": "assets/station/mango.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://eu10.fastcast4u.com:2140/;",
+    "name": "Club FM",
+    "frequency": "99.6",
+    "id": 5,
+    "image": "assets/station/clubfm.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://stream.zeno.fm/zcxh6wkva18uv",
+    "name": "Rainbow FM",
+    "frequency": "107",
+    "id": 6,
+    "image": "assets/station/rainbow.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+    "name": "FM thrissur",
+    "frequency": "101.1",
+    "id": 7,
+    "image": "assets/station/thrissur.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "https://listen.openstream.co/6803/audio",
+    "name": "Radio Keralam",
+    "frequency": "1476am",
+    "id": 8,
+    "image": "assets/station/radiokeralam.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_Michael_Jackson",
+    "name": "Micheal Jackson Radio",
+    "frequency": "N/A",
+    "id": 9,
+    "image": "assets/station/MJradio.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "http://c2.radioboss.fm:8332/stream",
+    "name": "Chennai Live",
+    "frequency": "104.8",
+    "id": 10,
+    "image": "assets/station/chennailive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://139.162.245.57:8115/stream",
+    "name": "Virgin Radio Oman",
+    "frequency": "N/A",
+    "id": 11,
+    "image": "assets/station/virginradiooman.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "name": "BBC World Servie",
+    "frequency": "N/A",
+    "id": 12,
+    "image": "assets/station/bbcworldservice.png",
+    "lang": "english",
+    "category": "news",
+    "genre": "news"
+  },
+  {
+    "url": "http://51.255.235.165:5476/;stream.mp3",
+    "name": "Mirchi 102.4",
+    "frequency": "102.4",
+    "id": 13,
+    "image": "assets/station/mirchi1024.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://peridot.streamguys.com:7150/Mirchi",
+    "name": "Mirchi 98.3",
+    "frequency": "98.3",
+    "id": 14,
+    "image": "assets/station/radiomirchi983.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://sc-bb.1.fm:7044/",
+    "name": "1FM Bombay Beats",
+    "frequency": "N/A",
+    "id": 15,
+    "image": "assets/station/bombaybeats.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://ca6.rcast.net:8052/;stream",
+    "name": "Radio Dabang 105.3 Houston",
+    "frequency": "105.3",
+    "id": 16,
+    "image": "assets/station/radiodabang.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://31.14.40.150:9000/stream",
+    "name": "Tamil 89.4 FM",
+    "frequency": "89.4",
+    "id": 17,
+    "image": "assets/station/tamilfm.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://stream-18.zeno.fm/3z615n343d0uv?zs=RNKC5B4ESXis5dS7-cl4rg",
+    "name": "Rahman Radio HD",
+    "frequency": "N/A",
+    "id": 18,
+    "image": "assets/station/arrahmanradio1.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "http://sp14.instainternet.com:8088/stream",
+    "name": "Ilayaraja Hits Radio 24X7",
+    "frequency": "N/A",
+    "id": 19,
+    "image": "assets/station/ilayarajaradio1.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "http://live.rcast.net:8694/;stream.mp3",
+    "name": "Radio Gilli",
+    "frequency": "106.5",
+    "id": 20,
+    "image": "assets/station/radiogilli1.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://stream-36.zeno.fm/3dktvcp0bg0uv?zs=EmmbxvyjR_WgLw6qNw3c5Q",
+    "name": "Radio Mirchi tamil",
+    "frequency": "98.3",
+    "id": 21,
+    "image": "assets/station/mirchi.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://psrlive1.listenon.in/anirud?station=anirudhradio",
+    "name": "Anirudh FM",
+    "frequency": "N/A",
+    "id": 22,
+    "image": "assets/station/anirudh.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/justinbieber/icecast.audio",
+    "name": "Exclusively Justin Bieber",
+    "frequency": "N/A",
+    "id": 23,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://live.trusl.com:1150/;",
+    "name": "Yes FM stereo",
+    "frequency": "N/A",
+    "id": 24,
+    "image": "assets/station/yesfm.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://s9.viastreaming.net:9560/;",
+    "name": "Radio DC",
+    "frequency": "90.4",
+    "id": 25,
+    "image": "assets/station/radiodc.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio",
+    "name": "Meethi mirchi",
+    "frequency": "N/A",
+    "id": 26,
+    "image": "assets/station/meetmirchi.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "name": "Ishq",
+    "frequency": "104.8",
+    "id": 27,
+    "image": "assets/station/ishq.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://stream.zeno.fm/wqqrvvy3w0hvv",
+    "name": "Audio_mac",
+    "frequency": "N/A",
+    "id": 28,
+    "image": "assets/station/Audio_mac.png",
+    "lang": "Audio_mac",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://stream.zeno.fm/bu1eswbp5pnvv",
+    "name": "Audio_mac indian",
+    "frequency": "N/A",
+    "id": 29,
+    "image": "assets/station/Audio_mac.png",
+    "lang": "Audio_mac",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+    "name": "Radio Suno",
+    "frequency": "91.7",
+    "id": 30,
+    "image": "assets/station/radioSuno.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "http://vidcdn.vidgyor.com/asianet-origin/audioonly/playlist.m3u8",
+    "name": "Asianet news",
+    "frequency": "N/A",
+    "id": 31,
+    "image": "assets/station/asianetradio.png",
+    "lang": "malayalam",
+    "category": "news",
+    "genre": "news"
+  },
+  {
+    "url": "https://mmtvlive1.akamaized.net/out/v1/b07e2eca22624651960999f9ac2f4b7d/index_1.m3u8",
+    "name": "Manorama news",
+    "frequency": "N/A",
+    "id": 32,
+    "image": "assets/station/manoramanews.png",
+    "lang": "malayalam",
+    "category": "news",
+    "genre": "news"
+  },
+  {
+    "url": "https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/playlist_dvr.m3u8",
+    "name": "Mathrubhumi news",
+    "frequency": "N/A",
+    "id": 33,
+    "image": "assets/station/mathrubhuminews.png",
+    "lang": "malayalam",
+    "category": "news",
+    "genre": "news"
+  },
+  {
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+    "name": "News 24x7",
+    "frequency": "N/A",
+    "id": 34,
+    "image": "assets/station/news24x7.png",
+    "lang": "hindi",
+    "category": "news",
+    "genre": "news"
+  },
+  {
+    "url": "https://stream-52.zeno.fm/dd4z25cx868uv?zs=FPRrk1qoTZC0Vw9S22KERQ",
+    "name": "Mohits Radio",
+    "frequency": "N/A",
+    "id": 35,
+    "image": "assets/station/mohits.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://mgc.stream.laut.fm/mgc?t302=2023-03-12_12-53-48&uuid=ba11e3dd-3e67-45e8-9fe9-2a3a95fa1064",
+    "name": "MGC",
+    "frequency": "N/A",
+    "id": 36,
+    "image": "assets/station/mgc.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://musiconefm.stream.laut.fm/musiconefm?t302=2023-03-12_12-52-46&uuid=33ed3cd6-8019-4ed7-a5ad-1657c25e8679",
+    "name": "SIE7E Radio",
+    "frequency": "N/A",
+    "id": 37,
+    "image": "assets/station/sieze.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://s2.radio.co/s67e35ed32/listen",
+    "name": "Retrogression Radio",
+    "frequency": "N/A",
+    "id": 38,
+    "image": "assets/station/retrogression.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=640qos98%230%233p9nrrsqq848r542qr2nn4r8p4pn208o%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1678622616",
+    "name": "Radio FM 1",
+    "frequency": "N/A",
+    "id": 39,
+    "image": "assets/station/fm1.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://stream-41.zeno.fm/rznhgrrcmbruv?zs=kQg6712PQ5OcJod34tjyEA",
+    "name": "Radio World Beats",
+    "frequency": "N/A",
+    "id": 40,
+    "image": "assets/station/worldbeats.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/bts/icecast.audio",
+    "name": "Exclusively BTS",
+    "frequency": "N/A",
+    "id": 41,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio",
+    "name": "Exclusively Enrique Iglesias",
+    "frequency": "N/A",
+    "id": 42,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/coldplay/icecast.audio",
+    "name": "Exclusively Coldplay",
+    "frequency": "N/A",
+    "id": 43,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/charlieputh/icecast.audio",
+    "name": "Exclusively Charlie Puth",
+    "frequency": "N/A",
+    "id": 44,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/adele/icecast.audio",
+    "name": "Exclusively Adele",
+    "frequency": "N/A",
+    "id": 45,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/pink/icecast.audio",
+    "name": "Exclusively Pink",
+    "frequency": "N/A",
+    "id": 46,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/onedirection/icecast.audio",
+    "name": "Exclusively One Direction",
+    "frequency": "N/A",
+    "id": 47,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/theweeknd/icecast.audio",
+    "name": "Exclusively Weekends",
+    "frequency": "N/A",
+    "id": 48,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/theweeknd/icecast.audio",
+    "name": "Exclusively The Weeknd",
+    "frequency": "N/A",
+    "id": 49,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/elliegoulding/icecast.audio",
+    "name": "Exclusively Ellie Goulding",
+    "frequency": "N/A",
+    "id": 50,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/katyperry/icecast.audio",
+    "name": "Exclusively Katy Perry",
+    "frequency": "N/A",
+    "id": 51,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://streaming.exclusive.radio/er/edsheeran/icecast.audio",
+    "name": "Exclusively Ed Sheeran",
+    "frequency": "N/A",
+    "id": 52,
+    "image": "assets/station/exclusive.png",
+    "lang": "english",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio",
+    "name": "Bollywood Arijit Singh live",
+    "frequency": "N/A",
+    "id": 53,
+    "image": "assets/station/arjith.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
+    "name": "Bollywood Shreya Ghoshal live",
+    "frequency": "N/A",
+    "id": 54,
+    "image": "assets/station/shreya.png",
+    "lang": "hindi",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://stream-62.zeno.fm/mdyd8bvm7zquv?zs=oARy-hFQQH-1nTlpvQVsvg",
+    "name": "Sid Sriram Radio",
+    "frequency": "N/A",
+    "id": 55,
+    "image": "assets/station/sid.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://stream-37.zeno.fm/9x1sw687nf9uv?zs=_7otNbZNRJSsdZB4B8e1lQ",
+    "name": "KJ Yesudas Radio",
+    "frequency": "N/A",
+    "id": 56,
+    "image": "assets/station/yesudas.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "vintage"
+  },
+  {
+    "url": "https://stream-38.zeno.fm/dubvcz3rkrhvv?zs=CBQSQafCThC-bPN8Tbxy8A",
+    "name": "KS Chitra Radio",
+    "frequency": "N/A",
+    "id": 57,
+    "image": "assets/station/chithra.png",
+    "lang": "malayalam",
+    "category": "music",
+    "genre": "modern"
+  },
+  {
+    "url": "https://psrweb1.listenon.in/hari?station=hariharanradio&cb=1678627517",
+    "name": "Hariharan Radio",
+    "frequency": "N/A",
+    "id": 58,
+    "image": "assets/station/hariharan.png",
+    "lang": "tamil",
+    "category": "music",
+    "genre": "modern"
+  }
+]
